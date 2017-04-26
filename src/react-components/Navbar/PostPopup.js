@@ -15,17 +15,17 @@ class PostPopup extends React.Component {
             <tbody>
               <tr>
                 <td>Name</td>
-                <td><input placeholder="Enter product's name"></td>
+                <td><input placeholder="Enter idea's name"/></td>
               </tr>
               <tr>
                 <td>Description</td>
-                <td><input placeholder="Enter product's description"></td>
+                <td><input placeholder="Enter idea's description"/></td>
               </tr><tr>
                 <td>Link</td>
-                <td><input placeholder="http://www..."></td>
+                <td><input placeholder="http://www..."/></td>
               </tr><tr>
                 <td>Media</td>
-                <td><input placeholder="Pate a direct link to an image"></td>
+                <td><input placeholder="Paste a direct link to an image"/></td>
               </tr>
             </tbody>
           </table>
